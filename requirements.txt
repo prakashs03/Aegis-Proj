@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+numpy
+joblib
+streamlit
+sqlalchemy
+requests
+tensorflow==2.14.0
+keras
+python-dotenv
