@@ -68,9 +68,6 @@ Aegis_Fraud_Detection/
 ├── results.db               # SQLite DB storing predictions
 │
 ├── requirements.txt         # Python dependencies
-├── docker-compose.yml       # Docker optional
-├── Dockerfile.api           # FastAPI container
-├── Dockerfile.streamlit     # Streamlit container
 │
 └── README.md                # Project documentation
 ```
@@ -152,4 +149,4 @@ This replicates how real banking systems detect suspicious activity instantly.
 
 **Jayaprakash Srinivasan**  
 Real-time ML & Python Developer  
-GitHub: *your-username*
+GitHub: github.com/prakashs03
